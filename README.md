@@ -10,7 +10,7 @@ An fzf project picker in a floating [Herdr](https://herdr.dev) popup. Selecting 
 ## Install
 
 ```sh
-herdr plugin install trucke/herdr-project-switcher
+herdr plugin install sudokvn/herdr-project-switcher
 ```
 
 Open the picker from a terminal inside Herdr:
